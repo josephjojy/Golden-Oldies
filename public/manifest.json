@@ -21,9 +21,14 @@
       "src": "https://i.postimg.cc/W3wM3m25/icon-196.png",
       "sizes": "196x196",
       "type": "image/png"
+    },
+	 {
+      "src": "https://i.postimg.cc/wjJvk6SN/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://golden-oldies.belial.now.sh/",
   "display": "standalone",
   "theme_color": "#111111",
   "background_color": "#111111"
