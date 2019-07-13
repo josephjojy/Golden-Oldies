@@ -3,28 +3,23 @@
   "name": "Golden Oldie Compilations",
   "icons": [
     {
-      "src": "img/icon-48.png",
+      "src": "https://i.postimg.cc/pd8QNb3b/icon-48.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "img/icon-96.png",
+      "src": "https://i.postimg.cc/Kz2PxpyK/icon-96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "img/icon-144.png",
+      "src": "https://i.postimg.cc/0j57J6jP/icon-144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "img/icon-196.png",
+      "src": "https://i.postimg.cc/W3wM3m25/icon-196.png",
       "sizes": "196x196",
-      "type": "image/png"
-    },
-    {
-      "src": "img/icon-384.png",
-      "sizes": "384x384",
       "type": "image/png"
     }
   ],
