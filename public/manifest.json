@@ -28,7 +28,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://golden-oldies.belial.now.sh/manifest.json",
+  "start_url": "https://golden-oldies.belial.now.sh",
   "display": "standalone",
   "theme_color": "#111111",
   "background_color": "#111111"
