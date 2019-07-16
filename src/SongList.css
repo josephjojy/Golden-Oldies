@@ -1,0 +1,47 @@
+.SongList {
+    padding: 20px;
+}
+
+.Song{
+    text-align: left;
+    display: block;
+    background: #222;
+    color: #FFC107;
+    border-radius: 5px;
+    border: 1px solid #FFC107;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+.SongTitle {
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+.More {
+    float:right;
+}
+
+.Quality {
+    width: 50px;
+    height: 50px;
+}
+
+@media only screen and (max-width: 600px) {
+    .Song {
+        padding-bottom: 40px;
+    }
+
+    .SongTitle {
+        font-size: 1rem;
+        display: block;
+    }
+    .More {
+        display: block;
+    }
+    .Quality {
+        width: 25px;
+        height: 25px;
+    }
+    
+}

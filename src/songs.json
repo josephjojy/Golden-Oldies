@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "Name":"Boulevard of Broken Dreams",
+        "Composer":"Green Day",
+        "HiRes": true,
+        "Sampling": 192
+    },
+    {
+        "id":2,
+        "Name":"Strings",
+        "Composer":"Shawn Mendes",
+        "HiRes": false,
+        "Sampling": 44.1
+    }
+]

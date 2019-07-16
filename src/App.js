@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import Header from './Header';
+import SongList from './SongList';
 
 class App extends Component {
 	constructor(props) {
@@ -18,6 +19,7 @@ class App extends Component {
 		return (
 			<div className="App">
 			<Header search={this.state.search} onSearchChange={this.onSearchChange} />
+			<SongList/>
 			</div>
 		);
 	}
