@@ -15,8 +15,8 @@ for file in files:
   for line in text:
     line = line[49:]
     songs = line.split('.flac')[0]
-    composer.append(songs.split(' - ')[0])
-    name.append(songs.split(' - ')[1])
+    composer.append((songs.split(' - ')[0]).strip())
+    name.append((songs.split(' - ')[1]).strip())
 
   # Sampling and HiRes Conditions
   if(file == "192kHz.txt"):
