@@ -14,7 +14,7 @@ function SongList(props) {
                         <span className="SongTitle">{item.Composer} - {item.Name}</span>
                         <span className="More">
                             <img src={hiRes} className="Quality" alt="Hi-Res"/>&nbsp;&nbsp;
-                            <span>{item.Sampling}k</span>&nbsp;&nbsp;
+                            <span>{item.Sampling} kHz</span>&nbsp;&nbsp;
                         </span>
                     </div>
                     );
@@ -25,7 +25,7 @@ function SongList(props) {
                     <span className="SongTitle">{item.Composer} - {item.Name}</span>
                     <span className="More">
                         <img src={cd} className="Quality" alt="CD"/>&nbsp;&nbsp;
-                        <span>{item.Sampling}k</span>&nbsp;&nbsp;
+                        <span>{item.Sampling} kHz</span>&nbsp;&nbsp;
                     </span>
                 </div>
                 );

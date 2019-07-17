@@ -1,16 +1,835 @@
 [
-    {
-        "id":1,
-        "Name":"Boulevard of Broken Dreams",
-        "Composer":"Green Day",
-        "HiRes": true,
-        "Sampling": 192
-    },
-    {
-        "id":2,
-        "Name":"Strings",
-        "Composer":"Shawn Mendes",
-        "HiRes": false,
-        "Sampling": 44.1
-    }
+	{
+		"id":1,
+		"Name": "It's My Life",
+		"Composer": " Bon Jovi",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":2,
+		"Name": "Symphony",
+		"Composer": "Clean Bandit",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":3,
+		"Name": "American Idiot",
+		"Composer": "Green Day",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":4,
+		"Name": "Boulevard Of Broken Dreams",
+		"Composer": "Green Day",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":5,
+		"Name": "Holiday",
+		"Composer": "Green Day",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":6,
+		"Name": "Believer",
+		"Composer": "Imagine Dragons",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":7,
+		"Name": "Demons",
+		"Composer": "Imagine Dragons",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":8,
+		"Name": "On Top Of The World",
+		"Composer": "Imagine Dragons",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":9,
+		"Name": "Radioactive",
+		"Composer": "Imagine Dragons",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":10,
+		"Name": "Thunder",
+		"Composer": "Imagine Dragons",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":11,
+		"Name": "We Are The Champions",
+		"Composer": "Queen",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":12,
+		"Name": "We Will Rock You",
+		"Composer": "Queen",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":13,
+		"Name": "Cheap Thrills",
+		"Composer": "Sia",
+		"HiRes": true,
+		"Sampling": 192
+	},
+	{
+		"id":15,
+		"Name": "Hey Brother",
+		"Composer": " Avicii",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":16,
+		"Name": "Wake Me Up",
+		"Composer": "Avicii",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":17,
+		"Name": "Hymn for the Weekend",
+		"Composer": "Coldplay",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":18,
+		"Name": "Memories",
+		"Composer": "David Guetta",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":19,
+		"Name": "Animals",
+		"Composer": "Maroon 5",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":20,
+		"Name": "Maps",
+		"Composer": "Maroon 5",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":21,
+		"Name": "Sugar",
+		"Composer": "Maroon 5",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":22,
+		"Name": "Too Good At Goodbyes",
+		"Composer": "Sam Smith",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":23,
+		"Name": "Awake and Alive",
+		"Composer": "Skillet",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":24,
+		"Name": "Hero",
+		"Composer": "Skillet",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":25,
+		"Name": "Monster",
+		"Composer": "Skillet",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":26,
+		"Name": "Beautiful Now",
+		"Composer": "Zedd",
+		"HiRes": true,
+		"Sampling": 96.0
+	},
+	{
+		"id":28,
+		"Name": " Diamond Heart",
+		"Composer": " Alan Walker",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":29,
+		"Name": " Ignite",
+		"Composer": "Alan Walker",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":30,
+		"Name": "All Falls Down",
+		"Composer": "Alan Walker",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":31,
+		"Name": "Tired",
+		"Composer": "Alan Walker",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":32,
+		"Name": "Waiting For Love",
+		"Composer": "Avicii",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":33,
+		"Name": "I'm a Mess",
+		"Composer": "Bebe Rexha",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":34,
+		"Name": "In the Name of Love",
+		"Composer": "Bebe Rexha",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":35,
+		"Name": "Just the Way You Are",
+		"Composer": "Bruno Mars",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":36,
+		"Name": "Closer",
+		"Composer": "Chainsmokers",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":37,
+		"Name": "Don't Let Me Down",
+		"Composer": "Chainsmokers",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":38,
+		"Name": "Paris",
+		"Composer": "Chainsmokers",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":39,
+		"Name": "Something Just Like This",
+		"Composer": "Chainsmokers",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":40,
+		"Name": " Attention",
+		"Composer": "Charlie Puth",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":41,
+		"Name": "How Long",
+		"Composer": "Charlie Puth",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":42,
+		"Name": "See You Again",
+		"Composer": "Charlie Puth",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":43,
+		"Name": "The Way I Am",
+		"Composer": "Charlie Puth",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":44,
+		"Name": "We Don't Talk Any More",
+		"Composer": "Charlie Puth",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":45,
+		"Name": "Reggaeton lento",
+		"Composer": "CNCO",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":46,
+		"Name": "Viva La Vida",
+		"Composer": "Coldplay",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":47,
+		"Name": "Let Me Love You",
+		"Composer": "DJ Snake",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":48,
+		"Name": "Cake by the Ocean",
+		"Composer": "DNCE",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":49,
+		"Name": "Happier",
+		"Composer": "Ed Sheeran",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":50,
+		"Name": "I Don't Care",
+		"Composer": "Ed Sheeran",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":51,
+		"Name": "Perfect",
+		"Composer": "Ed Sheeran",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":52,
+		"Name": "Shape Of You",
+		"Composer": "Ed Sheeran",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":53,
+		"Name": "Shotgun",
+		"Composer": "George Ezra",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":54,
+		"Name": "Take Me Home, Country Roads",
+		"Composer": "John Denver",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":55,
+		"Name": "All Of Me",
+		"Composer": "John Legend",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":56,
+		"Name": "I'm The One",
+		"Composer": "Justin Bieber",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":57,
+		"Name": "Love Yourself",
+		"Composer": "Justin Bieber",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":58,
+		"Name": "Die Young",
+		"Composer": "Kesha",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":59,
+		"Name": "Girls Like You",
+		"Composer": "Maroon 5",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":60,
+		"Name": "Moves Like Jagger",
+		"Composer": "Maroon 5",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":61,
+		"Name": "Happier",
+		"Composer": "Marshmello",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":62,
+		"Name": "Drag Me Down",
+		"Composer": "One Direction",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":63,
+		"Name": "Fight Song",
+		"Composer": "Rachel Platten",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":64,
+		"Name": "Stitches",
+		"Composer": "Shawn Mendes",
+		"HiRes": true,
+		"Sampling": 44.1
+	},
+	{
+		"id":66,
+		"Name": "Youngblood",
+		"Composer": " 5 Seconds Of Summer",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":67,
+		"Name": "Runnin'",
+		"Composer": "Adam Lambert",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":68,
+		"Name": "Right Now",
+		"Composer": "Akon",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":69,
+		"Name": "Smack That",
+		"Composer": "Akon",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":70,
+		"Name": "Alone",
+		"Composer": "Alan Walker",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":71,
+		"Name": "Darkside",
+		"Composer": "Alan Walker",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":72,
+		"Name": "Faded",
+		"Composer": "Alan Walker",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":73,
+		"Name": "Sing Me to Sleep",
+		"Composer": "Alan Walker",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":74,
+		"Name": "How Far I'll Go",
+		"Composer": "Alessia Cara",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":75,
+		"Name": "Cups",
+		"Composer": "Anna Kendrick",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":76,
+		"Name": "I'm An Albatraoz",
+		"Composer": "Aronchupa",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":77,
+		"Name": "Complicated",
+		"Composer": "Avril Lavigne",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":78,
+		"Name": "More Than You Know",
+		"Composer": "Axwell  Ingrosso",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":79,
+		"Name": "Everybody",
+		"Composer": "Backstreet Boys",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":80,
+		"Name": "Uptown Funk",
+		"Composer": "Bruno Mars",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":81,
+		"Name": "Boy With Luv",
+		"Composer": "BTS",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":82,
+		"Name": "Havana",
+		"Composer": "Camila Cabello",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":83,
+		"Name": "Rockabye",
+		"Composer": "Clean Bandit",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":84,
+		"Name": "Solo",
+		"Composer": "Clean Bandit",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":85,
+		"Name": "Heart Attack",
+		"Composer": "Demi Lovato",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":86,
+		"Name": "New Rules",
+		"Composer": "Dua Lipa",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":87,
+		"Name": "In My Mind",
+		"Composer": "Dynoro",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":88,
+		"Name": "Love The Way You Lie",
+		"Composer": "Eminem",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":89,
+		"Name": "Tonight",
+		"Composer": "Enrique Iglesias",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":90,
+		"Name": "Work from Home",
+		"Composer": "Fifth Harmony",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":91,
+		"Name": "Know Your Enemy",
+		"Composer": "Green Day",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":92,
+		"Name": "God Is A Girl",
+		"Composer": "Groove Coverage",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":93,
+		"Name": "Let It Go",
+		"Composer": "Idina Menzel",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":94,
+		"Name": "Warriors",
+		"Composer": "Imagine Dragons",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":95,
+		"Name": "On The Floor",
+		"Composer": "Jennifer Lopez",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":96,
+		"Name": "All Time Low",
+		"Composer": "Jon Bellion",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":97,
+		"Name": " Despacito (Remix)",
+		"Composer": "Justin Bieber",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":98,
+		"Name": "Wavin' Flag",
+		"Composer": "K'NAAN",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":99,
+		"Name": "7 Years",
+		"Composer": "Lukas Graham",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":100,
+		"Name": "Rude",
+		"Composer": "Magic!",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":101,
+		"Name": "U Can't Touch This",
+		"Composer": "MC Hammer",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":102,
+		"Name": "Best Song Ever",
+		"Composer": "One Direction",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":103,
+		"Name": "MIdnight Memories",
+		"Composer": "One Direction",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":104,
+		"Name": "What Makes You Beautiful",
+		"Composer": "One Direction",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":105,
+		"Name": "Counting Stars",
+		"Composer": "OneRepublic",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":106,
+		"Name": "Let Her Go",
+		"Composer": "Passenger",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":107,
+		"Name": "Give Me Everything",
+		"Composer": "Pitbull",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":108,
+		"Name": "Hey Baby",
+		"Composer": "Pitbull",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":109,
+		"Name": "International Love",
+		"Composer": "Pitbull",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":110,
+		"Name": "Rain Over Me",
+		"Composer": "Pitbull",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":111,
+		"Name": "Timber",
+		"Composer": "Pitbull",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":112,
+		"Name": "No Lie",
+		"Composer": "Sean Paul",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":113,
+		"Name": "It Ain't Me",
+		"Composer": "Selena Gomez",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":114,
+		"Name": "Strings",
+		"Composer": "Shawn Mendes",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":115,
+		"Name": "Theres Nothing Holdin Me Back",
+		"Composer": "Shawn Mendes",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":116,
+		"Name": "My Demons",
+		"Composer": "Starset",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":117,
+		"Name": "Don't You Worry Child",
+		"Composer": "Swedish House Mafia",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":118,
+		"Name": "Love Story",
+		"Composer": "Taylor Swift",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":119,
+		"Name": "Hall Of Fame",
+		"Composer": "The Script",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":120,
+		"Name": "Glad You Came",
+		"Composer": "The Wanted",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":121,
+		"Name": "Dusk Till Dawn",
+		"Composer": "ZAYN",
+		"HiRes": false,
+		"Sampling": 44.1
+	},
+	{
+		"id":122,
+		"Name": "I Don't Wanna Live Forever",
+		"Composer": "ZAYN",
+		"HiRes": false,
+		"Sampling": 44.1
+	}
 ]
